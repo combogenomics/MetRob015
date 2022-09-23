@@ -14,3 +14,4 @@ met_ext_0_not0.txt and met_ext_15_not0.txt embedd the raw extracellular metabolo
 
 - FBA and genome-scale metabolic modelling.
 
+To be uploaded soon...
